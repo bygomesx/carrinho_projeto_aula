@@ -2,6 +2,7 @@
 <br>
 <br>
 Execute:
+<br>
 npm create vite@latest carrinhoprojeto --template react
 <br>
 cd carrinhoprojeto
